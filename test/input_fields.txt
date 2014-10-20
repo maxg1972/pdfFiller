@@ -1,0 +1,1796 @@
+---
+FieldType: Text
+FieldName: delegabanc
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: agenziaban
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: provbanc
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: cf1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf3
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf4
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf5
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf6
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf7
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf8
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf9
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf10
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf11
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf12
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf13
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf14
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf15
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: cf16
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: annoimposta
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ragsociale
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ragsociale1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: giornonasc1
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: giornonasc2
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: mesenasc1
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: mesenasc2
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: annonasc1
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: annonasc2
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: annonasc3
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: annonasc4
+FieldFlags: 2
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: sessmf
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: comunenasc
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prnasc1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: prnasc2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: domcom
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prdom1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: prdom2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: viancdom
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: codtrib1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ratregpro1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codtrib2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ratregpro2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codtrib3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ratregpro3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif3
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codtrib4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ratregpro4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif4
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codtrib5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ratregpro5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif5
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codtrib6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ratregpro6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif6
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: tota
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: totb
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: +/-ab
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salab
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: coduf1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: coduf2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: coduf3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat4
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat5
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat6
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat7
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat8
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat9
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat10
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codat11
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codsed1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: cauctr1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: matrinps1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prifdamm1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifdaa1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: prifamm1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifaaa1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codsed2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: cauctr2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: matrinps2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prifdamm2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifdaa2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: prifamm2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifaaa2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codsed3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: cauctr3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: matrinps3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prifdamm3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifdaa3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: prifamm3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifaaa3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codsed4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: cauctr4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: matrinps4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prifdamm4
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifdaa4
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: prifamm4
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifaaa4
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: totc
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: totd
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: +/-cd
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salcd
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: codreg11
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codreg21
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codtrib10
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif10
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codreg12
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codreg22
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codtrib11
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif11
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codreg13
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codreg23
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codtrib12
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif12
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codreg14
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codreg24
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codtrib13
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif13
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: impcom17
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tote
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: totf
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: +/-ef
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salef
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: ici1a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici2a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici3a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici4a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici5a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici6a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici7a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici8a
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici9a
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: codtrib14
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif14
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: ici1b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici2b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici3b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici4b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici5b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici6b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici7b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici8b
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici9b
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: codtrib15
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif15
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: ici1c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici2c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici3c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici4c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici5c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici6c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici7c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici8c
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici9c
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: codtrib16
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate7
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif16
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: ici1d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici2d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici3d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici4d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici5d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici6d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici7d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici8d
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: ici9d
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: codtrib17
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: rate8
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: annorif17
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: impcom21
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: totg
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: toth
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: +/-gh
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salgh
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: detrazici
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: codsed5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: panum1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: pacc1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: numrif1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: caus1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: codsed6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: panum2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: pacc2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: numrif2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: caus2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: codsed7
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: panum3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: pacc3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: numrif3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: caus3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: toti
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: totl
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: +/-il
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salil
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: coden1
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: coden2
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: coden3
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: coden4
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: codsed50
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: cauctr5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: codpos1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prifdamm40
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifdaa40
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: prifamm40
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifaaa40
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: codsed60
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: cauctr6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: codpos2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: prifdamm5
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifdaa5
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: prifamm5
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: prifaaa5
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: totm
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: totn
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: +/-mn
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salmn
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: eregentut
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: salfin
+FieldFlags: 1
+FieldValue: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: dataverg1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: dataverg2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: dataverm1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: dataverm2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: datavera1
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: datavera2
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: datavera3
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: datavera4
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: impvers1a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers2a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers3a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers4a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers5a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers6a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom1a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom2a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom3a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom4a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom5a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom6a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers10a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers11a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers12a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers13a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers14a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers15a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers16a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers17a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers18a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers19a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers20a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers21a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers211a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers22a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers23a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers24a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers25a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom10a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom11a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom12a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom13a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom14a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom15a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom16a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom18a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom19a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom20a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom211a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom22a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom23a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom24a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom25a
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers1
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom1
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers2
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom2
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers3
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom3
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers4
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom4
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers5
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom5
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers6
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom6
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers10
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom10
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers11
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom11
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers12
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom12
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers13
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom13
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers14
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom14
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers15
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom15
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers16
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom16
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers17
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers18
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom18
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers19
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom19
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers20
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom20
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers21
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers211
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom211
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers22
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom22
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers23
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom23
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers24
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom24
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impvers25
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: impcom25
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: ccbanc
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: abi
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: cab
+FieldFlags: 4194304
+FieldJustification: Center

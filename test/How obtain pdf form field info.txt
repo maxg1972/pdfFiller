@@ -1,0 +1,8 @@
+HOW OBTAIN FIELDS NAME FROM A PDF FORM FILE (you need 'pdftk' installed on your system)
+
+If 'myfile.pdf' is the source pdf, from console run:
+
+	pdftk myfile.pdf dump_data_fields > myfile_fields_name.txt
+
+The output text file 'myfile_fields_name.txt', will contain all the form fields.
+ 
